@@ -11,3 +11,6 @@ const getTodayDate = ()=>{
   return new Date();
 }
 
+const devChanges=()=>{
+  return 0;
+}
