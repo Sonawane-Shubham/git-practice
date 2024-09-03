@@ -22,7 +22,3 @@ const unnessesaryFunction1 = () => {
   return null;
 };
 
-const unnessesaryFunction2 = () => {
-  return null;
-};
-
