@@ -18,3 +18,6 @@ const devChanges = () => {
 const unnessesaryFunction = () => {
   return null;
 };
+const unnessesaryFunction1 = () => {
+  return null;
+};
