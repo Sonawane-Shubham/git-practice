@@ -3,14 +3,18 @@ const isAbove19 = age;
   return age >= 18;
 }
 
-const greet = ()=>{
+const greet = () => {
   console.log("Welcome");
-}
+};
 
-const getTodayDate = ()=>{
+const getTodayDate = () => {
   return new Date();
-}
+};
 
-const devChanges=()=>{
+const devChanges = () => {
   return 0;
-}
+};
+
+const unnessesaryFunction = () => {
+  return null;
+};
